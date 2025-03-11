@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pymupdf
+pytesseract
+langdetect
+motor
+pymongo
+python-dotenv
+pymupdf
+python-multipart
